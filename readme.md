@@ -21,5 +21,6 @@
    *  懒加载：@Lazy 
    *  conditonal ：按照一定条件装配注解，满足条件的才加入IOC容器
    *  放在类上面就是满足条件就加载这个类
+   *  -Dos.name=Linux 指定虚拟机环境
    ![](https://i.imgur.com/C3gQY0c.png)
    ![](https://i.imgur.com/lWrbBZr.png)
